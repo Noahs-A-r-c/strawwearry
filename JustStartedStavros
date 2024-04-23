@@ -1,0 +1,5 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"U1","ESP32-C3FH4","","yume:Yu-QFN-32-5x5-0.5-EP-3.7x3.7","1",""
+"U2","ICM-20948","http://www.invensense.com/wp-content/uploads/2016/06/DS-000189-ICM-20948-v1.3.pdf","Sensor_Motion:InvenSense_QFN-24_3x3mm_P0.4mm","1",""
+"U3","MAX30102","https://datasheets.maximintegrated.com/en/ds/MAX30102.pdf","OptoDevice:Maxim_OLGA-14_3.3x5.6mm_P0.8mm","1",""
+"U4","LP3982ILD-1.8","http://www.ti.com/lit/ds/symlink/lp3982.pdf","Package_SON:WSON-8-1EP_3x2.5mm_P0.5mm_EP1.2x1.5mm_PullBack_ThermalVias","1",""
